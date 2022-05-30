@@ -29,6 +29,9 @@
     <option name="OBJECT_WRAPPING" value="5" />
     <option name="ARRAY_WRAPPING" value="5" />
   </JSON>
+  <Markdown>
+    <option name="WRAP_TEXT_IF_LONG" value="false" />
+  </Markdown>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
